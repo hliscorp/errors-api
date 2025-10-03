@@ -1,8 +1,13 @@
 {
-    "name": "lucinda/errors-mvc",
+    "name": "hlis/errors-mvc",
     "type": "library",
     "description": "MVC API for STDERR flow in PHP applications",
-    "keywords": ["STDERR","mvc","errors","handling"],
+    "keywords": [
+        "STDERR",
+        "mvc",
+        "errors",
+        "handling"
+    ],
     "homepage": "http://www.lucinda-framework.com/stderr-mvc",
     "license": "MIT",
     "authors": [
