@@ -1,5 +1,5 @@
 {
-    "name": "hlis/errors-mvc",
+    "name": "lucinda/errors-mvc",
     "type": "library",
     "description": "MVC API for STDERR flow in PHP applications",
     "keywords": [
